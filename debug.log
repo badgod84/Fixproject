@@ -1,0 +1,208 @@
+[0301/123526.191:ERROR:registration_protocol_win.cc(106)] CreateFile: The system cannot find the file specified. (0x2)
+[0807/110852.223:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0808/081534.377:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0815/134016.013:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0816/163519.583:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0816/163936.646:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0816/163936.688:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0816/171012.766:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0824/202821.461:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0824/203628.851:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0825/080941.984:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0825/081230.994:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0825/083142.439:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0905/211733.733:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0905/212008.338:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0905/212251.875:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0905/212624.621:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0905/213324.439:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0906/225410.183:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0906/234303.430:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0906/234428.401:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0906/234747.919:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0906/234752.175:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0913/180954.842:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/100253.662:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/105412.257:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/105501.766:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/161734.569:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0923/161815.601:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0923/180755.994:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/180814.597:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/180831.837:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/184023.505:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/194753.679:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/194858.750:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/195707.131:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[0923/200451.271:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0923/200554.393:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0929/165647.492:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/120505.249:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/120839.846:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/122418.336:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/123306.726:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/123349.798:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/130439.490:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/130439.491:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/131350.773:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/131754.667:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/133043.289:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/133322.134:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/133606.556:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/135131.202:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1014/141708.709:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1017/094236.902:ERROR:file_io_win.cc(180)] CreateFile D:\Maxcare\MaxCare\profiles\100026474135716\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1017/152046.318:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1017/152502.199:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1017/153345.674:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1017/163522.473:ERROR:file_io_win.cc(180)] CreateFile D:\Maxcare\MaxCare\profiles\100026481675777\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1018/082019.675:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1018/082021.378:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1018/101918.471:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1018/165326.048:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1018/171706.252:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1018/173219.714:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1018/203141.481:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/123011.572:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/145551.139:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/150214.797:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/150214.951:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/150234.251:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/150246.453:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1029/150251.092:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1106/193831.200:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1106/194152.903:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1106/195233.475:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1106/231551.157:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1106/231554.168:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1106/231555.204:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/123434.078:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/123448.443:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/124034.411:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/124218.681:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/124229.232:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/124428.371:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125103.884:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125416.959:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125416.972:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125425.001:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125440.243:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125448.321:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/125852.083:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/130006.906:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/130014.962:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131025.376:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131118.492:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131152.764:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131210.760:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131217.004:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131226.452:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131806.854:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/131809.538:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/132424.830:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1121/132622.889:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/010209.557:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/014533.056:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/021441.798:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1129/034259.376:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/041051.978:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/081703.734:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/084516.205:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/113455.214:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/114741.048:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/115909.799:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/120412.042:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1129/142629.145:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/154512.119:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/160835.267:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/170259.139:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1129/181454.179:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1206/165904.798:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1206/173037.440:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1206/173054.303:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1206/173058.046:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1206/173243.770:ERROR:settings.cc(358)] Settings magic is not 1129342067
+[1207/045148.124:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1207/105119.154:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1207/111733.190:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1207/111822.960:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1207/134541.425:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[1207/141752.498:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/162901.437:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/174600.590:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/183454.875:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/183520.417:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/184313.843:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/184314.812:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/190142.982:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0109/190142.987:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0109/190143.001:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0109/190143.004:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0109/224707.871:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/224707.904:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/224707.906:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/224707.936:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/224707.936:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/225920.287:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/225925.304:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/230932.562:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/230937.512:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/231532.718:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/231538.146:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/231542.367:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/231543.134:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0109/231544.279:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/104123.357:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/104703.323:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105139.089:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105300.481:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105302.691:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105304.687:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105648.933:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105938.562:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/105952.340:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110612.262:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110732.694:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110734.690:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110759.871:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110803.192:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110804.919:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110850.730:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110851.481:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110857.118:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110902.221:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/110911.821:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/111644.403:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/130514.475:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/133731.361:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0117/141753.340:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0128/152516.846:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0128/155929.834:ERROR:settings.cc(405)] Settings magic is not 1129342067
+[0128/160126.993:ERROR:settings.cc(405)] Settings magic is not 1129342067
+[0128/160144.231:ERROR:settings.cc(405)] Settings magic is not 1129342067
+[0128/160437.091:ERROR:settings.cc(405)] Settings magic is not 1129342067
+[0128/183501.560:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0128/215932.464:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/102754.857:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/130747.516:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/130756.637:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/142137.049:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/154533.265:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/160218.350:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0405/162212.190:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0411/185635.512:ERROR:file_io.cc(94)] ReadExactly: expected 40, observed 0
+[0524/090740.741:ERROR:file_io_win.cc(181)] CreateFile D:\ChromeProfiles\100067719201724\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0524/090740.759:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090740.761:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090740.786:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090740.787:ERROR:file_io_win.cc(181)] CreateFile D:\ChromeProfiles\100067719201724\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0524/090741.090:ERROR:file_io_win.cc(181)] CreateFile D:\ChromeProfiles\100067719201724\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0524/090741.114:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090741.116:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090741.277:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090741.454:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090741.475:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090742.515:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090747.205:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090747.208:ERROR:registration_protocol_win.cc(108)] CreateFile: The system cannot find the file specified. (0x2)
+[0524/090805.019:ERROR:file_io_win.cc(181)] CreateFile D:\ChromeProfiles\100067719201724\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
